@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Freeman&family=Sedan+SC&display=swap');
+body{
+    background-color: darkslategray;
+}
+.heading{
+    text-align: center;
+}
+.playground.heading{
+    color: #8a2be2;
+    font-family: "Sedan SC", serif;
+}
+.main{
+    border: 5px solid rgb(0, 0, 0);width: 25%; margin: 0 auto; margin: 1rem auto;
+}
+.main div{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+#roheline{
+    border-color: green;
+}
+#kollane{
+    border-color: yellow;
+}
+#punane{
+    border-color: red;
+}
+.footer{
+    text-align: center;
+    font-size: 2rem;
+    font-family: "Freeman", sans-serif;
+}
